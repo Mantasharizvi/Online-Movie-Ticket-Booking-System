@@ -2,7 +2,6 @@
 
 Cinemate is a **full-stack web application** that allows users to browse movies, select show timings, choose seats, and book tickets online in real-time. It eliminates the need for physical ticket counters and provides a seamless digital booking experience.
 
----
 
 ## 📌 Project Overview
 
@@ -16,7 +15,6 @@ Cinemate is designed to simplify the movie ticket booking process by providing:
 
 It offers both **user and admin functionalities**, ensuring efficient management of bookings and movie data.
 
----
 
 ## 🚀 Features
 
@@ -39,8 +37,6 @@ It offers both **user and admin functionalities**, ensuring efficient management
 * Manage Users
 * Monitor Bookings & Revenue
 * Dashboard with Analytics
-
----
 
 ## 🏗️ Tech Stack
 
@@ -65,8 +61,6 @@ It offers both **user and admin functionalities**, ensuring efficient management
 * Nodemailer (Email Service)
 * JWT Authentication
 
----
-
 ## 💻 System Requirements
 
 ### Hardware
@@ -81,7 +75,6 @@ It offers both **user and admin functionalities**, ensuring efficient management
 * IDE: Visual Studio Code
 * Browser: Chrome / Edge
 
----
 
 ### Run the Application
 
@@ -110,7 +103,6 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 4. Makes payment
 5. Receives booking confirmation and e-ticket
 
----
 
 ## 📊 Modules
 

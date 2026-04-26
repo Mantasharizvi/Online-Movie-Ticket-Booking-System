@@ -1,6 +1,89 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎬 Cinemate – Online Movie Ticket Booking System
 
-## Getting Started
+Cinemate is a **full-stack web application** that allows users to browse movies, select show timings, choose seats, and book tickets online in real-time. It eliminates the need for physical ticket counters and provides a seamless digital booking experience.
+
+---
+
+## 📌 Project Overview
+
+Cinemate is designed to simplify the movie ticket booking process by providing:
+
+* 🎥 Movie browsing and search
+* 🏢 Theatre and showtime selection
+* 💺 Real-time seat selection
+* 💳 Secure online payment
+* 🎟️ Instant e-ticket generation
+
+It offers both **user and admin functionalities**, ensuring efficient management of bookings and movie data.
+
+---
+
+## 🚀 Features
+
+### 👤 User Features
+
+* User Registration & Login
+* Browse Movies (Latest, Upcoming, Trending)
+* Search & Filter Movies
+* Real-Time Seat Selection
+* Online Ticket Booking
+* Secure Payment Integration
+* Booking Confirmation via Email/SMS
+* View Booking History
+
+### 🛠️ Admin Features
+
+* Add / Edit / Delete Movies
+* Manage Theatres & Screens
+* Schedule Shows
+* Manage Users
+* Monitor Bookings & Revenue
+* Dashboard with Analytics
+
+---
+
+## 🏗️ Tech Stack
+
+### Frontend
+
+* HTML
+* Tailwind CSS
+* React.js
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Database
+
+* MongoDB
+
+### Tools & Services
+
+* Razorpay (Payment Gateway)
+* Nodemailer (Email Service)
+* JWT Authentication
+
+---
+
+## 💻 System Requirements
+
+### Hardware
+
+* Processor: Intel Core i3 or above
+* RAM: 4GB minimum
+* Storage: 250GB
+
+### Software
+
+* OS: Windows / macOS / Linux
+* IDE: Visual Studio Code
+* Browser: Chrome / Edge
+
+---
+
+### Run the Application
 
 First, run the development server:
 
@@ -18,19 +101,30 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## 🔄 Project Workflow
 
-To learn more about Next.js, take a look at the following resources:
+1. User registers/logs in
+2. Selects movie and showtime
+3. Chooses seats (real-time availability)
+4. Makes payment
+5. Receives booking confirmation and e-ticket
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📊 Modules
 
-## Deploy on Vercel
+* User Management
+* Movie Management
+* Theatre Management
+* Booking System
+* Payment Integration
+* Admin Dashboard
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+
+
+
+
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
